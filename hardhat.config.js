@@ -27,9 +27,9 @@ module.exports = {
   networks: {
     
     "optimism": {
-       url: https://opt-mainnet.g.alchemy.com/v2/FCK-g1vvLYP5SFcuAURYrsfO9DaqJ6Ag,
-       accounts: [ cb4bdff733cb2daf4d29cb413d265a5ebf75c5d780a4aefa8a7033248aa3b3aa
-       ]
+       url: "https://opt-mainnet.g.alchemy.com/v2/FCK-g1vvLYP5SFcuAURYrsfO9DaqJ6Ag",
+       accounts: [ "cb4bdff733cb2daf4d29cb413d265a5ebf75c5d780a4aefa8a7033248aa3b3aa"
+        ]
     }
   }
 };
